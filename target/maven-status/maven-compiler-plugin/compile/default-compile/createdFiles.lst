@@ -1,0 +1,6 @@
+com\mycompany\megasenatualizador\controller\AtualizacaoController.class
+com\mycompany\megasenatualizador\MegaSenaAtualizador.class
+com\mycompany\megasenatualizador\scheduler\AtualizadorAgendado.class
+com\mycompany\megasenatualizador\repository\ResultadoRepository.class
+com\mycompany\megasenatualizador\model\ResultadoMegaSena.class
+com\mycompany\megasenatualizador\service\ScrapingService.class
